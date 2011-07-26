@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /config/
+Disallow: /images/
+Disallow: /include/
+Disallow: /js/
+Disallow: /templates/
+

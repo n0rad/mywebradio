@@ -1,0 +1,42 @@
+--------------------------------------------------------
+VERSION 1.1.9
+--------------------------------------------------------
+
+- JS API: Fixed EP_getTrackInfo returning last playlist
+  item on load.
+- JS API: Fixed MP3_PLAYING status not triggered after 
+	pause or stop.
+- www1 / www2 / www3 / domains are now supported and 
+  work with one registration KEY.
+
+--------------------------------------------------------
+VERSION 1.1.8
+--------------------------------------------------------
+
+- Fixed not showing playlist when useing autoplay = true
+
+--------------------------------------------------------
+VERSION 1.1.7
+--------------------------------------------------------
+
+- Fixed inverted vertical slider bug
+- Fixed bitmap font ' sign for all skins
+- Updated 'example_js_control.html' file
+
+- JS API: new function 'EP_setPlayListXML'
+- JS API: new events added: MP3_NEXT / MP3_PREVIOUS / MP3_SELECT
+- JS API: new function 'EP_getTrackInfo'
+- JS API: added new functions to 'ep_player.js'
+
+Please see the updated documentation for more information:
+http://www.e-phonic.com/mp3player/documentation/#javascript
+
+--------------------------------------------------------
+INFO
+--------------------------------------------------------
+
+E-Phonic
+http://www.e-phonic.com/
+info@e-phonic.com
+
+--------------------------------------------------------

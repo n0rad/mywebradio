@@ -1,0 +1,20 @@
+--------------------------------------------------------
+LICENSE
+--------------------------------------------------------
+
+1. This license grants you the right to use E-Phonic MP3 Player under the conditions outlined below. You cannot use E-Phonic MP3 Player if you do not agree with these conditions.
+
+2. You are not allowed to distribute, resell or decompile this software (or parts of this software) without explicit prior written permission from the author. Queries about the license should be addressed to E-Phonic. (info@e-phonic.com)
+
+3. NO WARRANTY. The software is provided "as is" without warranty of any kind. E-Phonic is not responsible for any damage to the user's computer system or data.
+
+
+--------------------------------------------------------
+INFO
+--------------------------------------------------------
+
+E-Phonic
+http://www.e-phonic.com/
+info@e-phonic.com
+
+--------------------------------------------------------

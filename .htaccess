@@ -1,0 +1,8 @@
+require user music
+
+
+AuthUserFile /var/www/music.lhome.fr/htdocs/.htpasswd
+AuthBasicProvider file
+AuthName EnterPassword
+AuthType Basic
+
