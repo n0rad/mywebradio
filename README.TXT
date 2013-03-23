@@ -119,7 +119,7 @@ it uses the library MPD::PHP to communicate with MPD.
 Mootools-Website: "http://mootools.net/"
 
 //=========================//
-// Credits				   //
+// Credits                 //
 //=========================//
 
 Thanks to the following people.
